@@ -1,0 +1,6 @@
+% Data file for simple production planning model
+Topics = {International, National, Local, Sport, Culture};
+minPages = [5, 4, 2, 2, 1];
+maxPages = [9, 7, 5, 4, 3];
+potentialReaders = [1500, 2000, 1000, 1500, 750];
+limitTotalPages = 10;
